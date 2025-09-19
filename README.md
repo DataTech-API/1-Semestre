@@ -1,5 +1,7 @@
 # 1-Semestre
 
+## 🎓 Equipe <a id="equipe"></a>
+
 <div align="center">
   <table>
     <tr>
