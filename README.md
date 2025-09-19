@@ -1,5 +1,18 @@
 # 1-Semestre
 
+
+## 💻 Tecnologias <a id="tecnologias"></a>
+
+<h4 align="center">
+ <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
+ <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</h4>
+
+### 🛠 Pré-requisitos
+
+- VisualG ([Download](https://sourceforge.net/projects/visualg30/))
+
 ## 🎓 Equipe <a id="equipe"></a>
 
 <div align="center">
