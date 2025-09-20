@@ -57,7 +57,6 @@ preencher bla bla bla bla bla
 
 ## 🎓 Equipe <a id="equipe"></a>
 
-<div align="center">
   <table>
     <tr>
       <th>Membro</th>
