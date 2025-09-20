@@ -11,8 +11,8 @@
 |   5  |    Média    | Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa.                                        |      29      |    1  |    ✅   |
 |   6  |    Média    | Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tunning futuramente.                                 |      41      |    1  |    ✅   |
 |   7  |    Média    | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar.                                  |       3      |    2  |    ✅   |
-|   8  |    Média    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |       5      |    2  |    ✅   |
-|  9  |    Média    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      44      |    1   |    ✅   |
+|   8  |    Baixa    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |       5      |    2  |    ✅   |
+|  9  |    Baixa| Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      44      |    1   |    ✅   |
 
 
 ---
