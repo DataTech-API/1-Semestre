@@ -4,9 +4,12 @@
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](inserir link) |
-| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](inserir link) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](inserir link) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
+| 🔖 **PLANNING** | 29/09 - 03/10 | [Sprint 1 Docs](inserir link) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](inserir link) |
+| 🔖 **PLANNING** | 27/10 - 31/10 | [Sprint 1 Docs](inserir link) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](inserir link) |
+| 🔖 **PLANNING** | 24/11 - 28/11 | [Sprint 1 Docs](inserir link) |
 
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
