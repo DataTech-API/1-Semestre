@@ -89,7 +89,7 @@ preencher bla bla bla bla bla
       <td>Gabriel Fabastos</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/gabrielfabastos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/gabrielfabastos/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Julia Fernanda</td>
