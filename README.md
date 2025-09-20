@@ -2,11 +2,11 @@
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-preencher
+preencher bla bla bla bla bla
 
 ## 🏅 Solução <a id="solucao"></a>
 
-preencher
+preencher bla bla bla bla bla
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
@@ -31,6 +31,7 @@ preencher
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
 *A DEFINIR
+
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
