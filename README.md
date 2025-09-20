@@ -48,14 +48,16 @@ preencher bla bla bla bla bla
 
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
-
+<div align="center">
+ 
  <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
- <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
+ <a href="[https://www.atlassian.com/software/jira](https://www.atlassian.com/br/software/jira?campaign=470096447&adgroup=1297424157961554&targetid=kwd-81089249380537:loc-20&matchtype=e&network=o&device=c&device_model=&creative=&keyword=jira&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&msclkid=66eacbf0afc21220c9d6a33d521857ca)"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
 ## 🎓 Equipe <a id="equipe"></a>
 
+<div align="center">
   <table>
     <tr>
       <th>Membro</th>
