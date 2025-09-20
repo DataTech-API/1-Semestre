@@ -16,11 +16,11 @@ preencher bla bla bla bla bla
 |   2  |    Alta    | preencher                                                                |    1   |    ✅   |
 |   3  |    Alta    | preencher                                                                             |    1   |    ✅   |
 |   4  |    Média    | preencher                  |    1  |    ✅   |
-|   5  |    Média    | preencher                           |    1  |    ✅   |
-|   6  |    Média    | preencher                               |    1  |    ✅   |
+|   5  |    Média    | preencher                           |    2 |    ✅   |
+|   6  |    Média    | preencher                               |    2  |    ✅   |
 |   7  |    Média    | preencher                                 |    2  |    ✅   |
-|   8  |    Baixa    | preencher                                              |    2  |    ✅   |
-|  9  |    Baixa| preencher                                                           |    1   |    ✅   |
+|   8  |    Baixa    | preencher                                              |    3  |    ✅   |
+|  9  |    Baixa| preencher                                                           |    3   |    ✅   |
 
 
 ---
