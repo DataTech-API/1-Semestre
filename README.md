@@ -55,10 +55,6 @@ preencher bla bla bla bla bla
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
-### 🛠 Pré-requisitos
-
-- VisualG ([Download](https://sourceforge.net/projects/visualg30/))
-
 ## 🎓 Equipe <a id="equipe"></a>
 
 <div align="center">
