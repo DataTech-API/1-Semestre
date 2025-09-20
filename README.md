@@ -51,14 +51,12 @@ preencher bla bla bla bla bla
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 <div align="center">
-
- 
  <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
-## 🎓 Equipe <a id="equipe"></a>
 
+## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
   <table>
     <tr>
