@@ -93,7 +93,7 @@ preencher bla bla bla bla bla
       <td>Julia Fernanda</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/juliafernandasoares05-crypto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/joice-aparecida-581226250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/j%C3%BAlia-fernanda-440714315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Luiz Eduardo Santos</td>
