@@ -14,15 +14,15 @@ preencher bla bla bla bla bla
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Sprint | estimativa |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
-|   1  |    Alta    | preencher                                                                                         |    1   |    ✅   |
-|   2  |    Alta    | preencher                                                                |    1   |    ✅   |
-|   3  |    Alta    | preencher                                                                             |    1   |    ✅   |
-|   4  |    Média    | preencher                  |    1  |    ✅   |
-|   5  |    Média    | preencher                           |    2 |    ✅   |
-|   6  |    Média    | preencher                               |    2  |    ✅   |
-|   7  |    Média    | preencher                                 |    2  |    ✅   |
-|   8  |    Baixa    | preencher                                              |    3  |    ✅   |
-|  9  |    Baixa| preencher                                                           |    3   |    ✅   |
+|   1  |    x    | Como usuário da calculadora, quero gerar a sequência de Fibonacci a partir da posição 0 até a 150ª, podendo também calcular diretamente o n-ésimo termo da sequência ao informar a posição desejada, para visualizar os termos com clareza ou obter apenas um valor específico.                   |    1  |    ✅   |
+|   2  |    x    | Como usuário da calculadora, desejo definir uma posição inicial n e gerar os próximos k números triangulares a partir dela, para analisar segmentos intermediários ou avançados da sequência.                   |    1  |    ✅   |
+|   3  |    x    | Como usuário, quero gerar os n primeiros números primos e exibir a diferença entre eles, para observar padrões e variações na distribuição dos primos.                   |    1  |    ✅   |   
+|   4  |    x    | Como usuário, quero calcular o fatorial de um número inteiro positivo e visualizar o processo passo a passo da multiplicação, para compreender melhor a formação do resultado e o crescimento exponencial da sequência.                  |    1  |    ✅   | 
+|   5  |    x    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender não apenas sua formação individual, mas também como eles se somam ao longo da sequência.                  |    2  |    ✅   |
+|   6  |    x    | Como usuário, quero ver os números da sequência de cubos lado a lado com os quadrados dos mesmos números, para comparar o crescimento dos valores e entender a diferença entre elevar ao quadrado e ao cubo.                 |    2  |    ✅   |
+|   7  |  alta   | Como usuário, quero gerar os n primeiros termos de uma sequência geométrica a partir de um termo inicial e uma razão, e ver esses termos listados tanto na ordem normal quanto na ordem inversa, para entender como a sequência se comporta de forma crescente e decrescente.                  |    2  |    ✅   |
+|   8  |    x    | Como usuário, quero definir um padrão de adição e subtração alternados (ex: +3, -2) e informar quantos termos desejo gerar, começando de um valor inicial igual a zero, para visualizar a sequência completa e entender o efeito do padrão escolhido.                  |    3  |    ✅   |
+|  9   |    x    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci, gerar os próximos n termos a partir desses valores, visualizar as diferenças entre termos consecutivos e também a soma acumulada dos termos, para acompanhar tanto o crescimento local quanto o total da sequência.                       |   3   |    ✅   |
 
 
 ---
@@ -31,7 +31,7 @@ preencher bla bla bla bla bla
 *A DEFINIR
 
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
-
+  
 *A DEFINIR
 
 ---
