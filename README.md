@@ -1,12 +1,13 @@
 # Calculadora de Sequências Lógicas
 
+
 <p align="center">
       <img src="https://github.com/DataTech-API/1-Semestre/blob/main/calculator-7181192_1280.png?raw=true" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
 <p align="center">
-  | <a href ="#desafio"> Desafio</a>  |
+  | <a href ="#desafio"> desafio</a>  |
   <a href ="#solucao"> Solução</a>  |   
   <a href ="#backlog"> Backlog do Produto</a>  |
   <a href ="#dor">DoR</a>  |
