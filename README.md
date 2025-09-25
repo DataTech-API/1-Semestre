@@ -1,5 +1,31 @@
 # Calculadora de Sequências Lógicas
 
+<p align="center">
+      <img src="[docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech](https://w7.pngwing.com/pngs/295/501/png-transparent-calculator-computer-icons-calculator-electronics-desktop-wallpaper-calculator.png)" width="200">
+      <h2 align="center"> Buzz Tech</h2>
+</p>
+
+<p align="center">
+  | <a href ="#desafio"> Desafio</a>  |
+  <a href ="#solucao"> Solução</a>  |   
+  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#dor">DoR</a>  |
+  <a href ="#dod">DoD</a>  |
+  <a href ="#sprint"> Cronograma de Sprints</a>  |
+  <a href ="#tecnologias">Tecnologias</a> |
+  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#equipe"> Equipe</a> |
+</p>
+
+> Status do Projeto: Concluído  ✅ 
+>
+> Relatório de Testes: [PDF](docs/cliente/relatorio_avaliacoes.pdf) 📊
+>
+> Pasta de Documentação: [Link](docs/cliente) 📄
+> 
+> Video do Projeto:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
+
+
 # 🏅 Desafio <a id="desafio"></a>
 
 O projeto consiste no desenvolvimento de uma calculadora de sequências numéricas para auxiliar no estudo da lógica de programação, trabalhando com diferentes tipos de sequências matemáticas.
