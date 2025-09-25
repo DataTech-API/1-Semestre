@@ -1,7 +1,7 @@
 # Calculadora de Sequências Lógicas
 
 <p align="center">
-      <img src="[docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech](https://w7.pngwing.com/pngs/295/501/png-transparent-calculator-computer-icons-calculator-electronics-desktop-wallpaper-calculator.png)" width="200">
+      <img src="https://github.com/DataTech-API/1-Semestre/issues/3#issue-3455219202" width="400">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
