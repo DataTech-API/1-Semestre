@@ -13,6 +13,7 @@
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> sprint</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
+  <a href ="#estrutura">estrutura</a> |
   <a href ="#manual">manual</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
@@ -46,26 +47,36 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 |  9   |    x    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci, gerar os próximos n termos a partir desses valores, visualizar as diferenças entre termos consecutivos e também a soma acumulada dos termos, para acompanhar tanto o crescimento local quanto o total da sequência.                       |   3   |    ✅   |
 
 
+---
+
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* preencher
+  
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* preencher
+
+---
+
 
 # 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
-| 🔖 **PLANNING** | 29/09 - 03/10 | [Sprint 1 Docs](inserir link) |
 | 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](inserir link) |
-| 🔖 **PLANNING** | 27/10 - 31/10 | [Sprint 1 Docs](inserir link) |
 | 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](inserir link) |
-| 🔖 **PLANNING** | 24/11 - 28/11 | [Sprint 1 Docs](inserir link) |
 
 
 # 💻 Tecnologias <a id="tecnologias"></a>
+<h4 align="center">
   <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   </h4>
 
 
-# 📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto <a id="estrutura"></a>
 
 src/ → Contém o código-fonte da aplicação em VisualG.
   calculadora.alg → Arquivo principal do projeto.
