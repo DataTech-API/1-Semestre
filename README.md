@@ -1,15 +1,9 @@
 # Calculadora de Sequências Lógicas
 
-preencher bla bla bla bla bla
-
 ## 🏅 Desafio <a id="desafio"></a>
 
 O projeto consiste no desenvolvimento de uma calculadora de sequências numéricas para auxiliar no estudo da lógica de programação, trabalhando com diferentes tipos de sequências matemáticas.
 A proposta reforça habilidades de raciocínio lógico, análise de padrões e resolução de problemas, aplicadas diretamente na programação.
-
-## 🏅 Solução <a id="solucao"></a>
-
-a solução é o programa em VisualG que implementa todas as sequências numéricas descritas no backlog, com interação via menu textual, atendendo aos requisitos funcionais, não funcionais e limitações do desafio.
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
@@ -26,16 +20,6 @@ a solução é o programa em VisualG que implementa todas as sequências numéri
 |  9   |    x    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci, gerar os próximos n termos a partir desses valores, visualizar as diferenças entre termos consecutivos e também a soma acumulada dos termos, para acompanhar tanto o crescimento local quanto o total da sequência.                       |   3   |    ✅   |
 
 
----
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-*A DEFINIR
-
-## 🏆 DoD - Definition of Done <a id="dod"></a>
-  
-*A DEFINIR
-
----
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
@@ -56,39 +40,38 @@ a solução é o programa em VisualG que implementa todas as sequências numéri
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
-Calculadora-Seq-Logicas/
-│
-├── src/                        # Código-fonte do projeto
-│   └── calculadora.alg         # Arquivo principal em VisualG
-│
-├── docs/                       # Documentação geral do projeto
-│   ├── backlog/                # Backlog do produto e das sprints
-│   │   ├── product-backlog.md
-│   │   ├── sprint1-backlog.md
-│   │   ├── sprint2-backlog.md
-│   │   └── sprint3-backlog.md
-│   │
-│   ├── sprint1/                # Documentos específicos da Sprint 1
-│   │   ├── DoR.md              # Definition of Ready
-│   │   ├── DoD.md              # Definition of Done
-│   │   └── apresentacao.pdf    # Slides ou roteiro
-│   │
-│   ├── sprint2/                # Sprint 2
-│   │   ├── DoR.md
-│   │   ├── DoD.md
-│   │   └── apresentacao.pdf
-│   │
-│   ├── sprint3/                # Sprint 3
-│   │   ├── DoR.md
-│   │   ├── DoD.md
-│   │   └── apresentacao.pdf
-│   │
-│   └── manual-usuario.md       # Manual do usuário final
-│
-├── README.md                   # Documentação principal (GitHub)
-└── .gitignore                  # Arquivos a serem ignorados pelo Git
+# 📂 Estrutura do Projeto
 
+src/ → Contém o código-fonte da aplicação em VisualG.
+  calculadora.alg → Arquivo principal do projeto.
 
+docs/ → Pasta com toda a documentação.
+  backlog/ → Contém o Product Backlog e os Sprint Backlogs.
+    product-backlog.md
+    sprint1-backlog.md
+    sprint2-backlog.md
+    sprint3-backlog.md
+
+  sprint1/ → Documentos da Sprint 1.
+    DoR.md (Definition of Ready)
+    DoD.md (Definition of Done)
+    apresentacao.pdf (slides ou roteiro)
+
+  sprint2/ → Documentos da Sprint 2.
+    DoR.md
+    DoD.md
+    apresentacao.pdf
+
+  sprint3/ → Documentos da Sprint 3.
+    DoR.md
+    DoD.md
+    apresentacao.pdf
+
+manual-usuario.md → Manual do usuário final.
+README.md → Documento principal do GitHub, com resumo do projeto.
+.gitignore → Arquivos que não devem ser versionados pelo Git.
+
+#link para documentação
 
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
