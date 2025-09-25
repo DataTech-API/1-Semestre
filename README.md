@@ -1,4 +1,4 @@
-# API 1º Semestre Banco de Dados 
+# Calculadora de Sequências Lógicas
 
 preencher bla bla bla bla bla
 
