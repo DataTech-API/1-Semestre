@@ -23,7 +23,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 # 📅 Cronograma de Sprints <a id="sprint"></a>
 
-
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
@@ -71,7 +70,21 @@ manual-usuario.md → Manual do usuário final.
 README.md → Documento principal do GitHub, com resumo do projeto.
 .gitignore → Arquivos que não devem ser versionados pelo Git.
 
-## link para documentação
+## Manual de Instalação
+1. Baixar o VisualG
+2. Clonar o repositório: 
+preencher depois 
+3. Abrir o arquivo principa (.alg) no VisualG
+4. Executar a aplicação com F9
+
+## Manual do usuário
+1. Ao iniciar, a aplicação mostra um menu de opções.
+2. O usuário escolhe uma sequência (ex: Fibonacci, Primos, Fatorial).
+3. A aplicação solicita os parâmetros (ex: posição, quantidade de termos, valor inicial).
+4. O resultado é exibido diretamente no console.
+5. Após a execução, o usuário pode escolher outra sequência ou encerrar o programa.
+
+### falta apenas colocar link c a pasta para os documentos e kbo
 
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
