@@ -3,7 +3,7 @@
 
 <p align="center">
       <img src="https://github.com/DataTech-API/1-Semestre/blob/main/calculator-7181192_1280.png?raw=true" width="200">
-      <h2 align="center"> Buzz Tech</h2>
+      <h2 align="center"> DataTech</h2>
 </p>
 
 <p align="center">
