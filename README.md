@@ -1,11 +1,11 @@
 # Calculadora de Sequências Lógicas
 
-## 🏅 Desafio <a id="desafio"></a>
+# 🏅 Desafio <a id="desafio"></a>
 
 O projeto consiste no desenvolvimento de uma calculadora de sequências numéricas para auxiliar no estudo da lógica de programação, trabalhando com diferentes tipos de sequências matemáticas.
 A proposta reforça habilidades de raciocínio lógico, análise de padrões e resolução de problemas, aplicadas diretamente na programação.
 
-## 📋 Backlog do Produto <a id="backlog"></a>
+# 📋 Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Sprint | estimativa |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
@@ -21,7 +21,7 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 
 
-## 📅 Cronograma de Sprints <a id="sprint"></a>
+# 📅 Cronograma de Sprints <a id="sprint"></a>
 
 
 | Sprint          |    Período    | Documentação                                     |
@@ -34,14 +34,13 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 | 🔖 **PLANNING** | 24/11 - 28/11 | [Sprint 1 Docs](inserir link) |
 
 
-## 💻 Tecnologias <a id="tecnologias"></a>
-<div align="center">
+# 💻 Tecnologias <a id="tecnologias"></a>
   <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   </h4>
 
 
-## 📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 
 src/ → Contém o código-fonte da aplicação em VisualG.
   calculadora.alg → Arquivo principal do projeto.
