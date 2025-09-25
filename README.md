@@ -56,6 +56,39 @@ a solução é o programa em VisualG que implementa todas as sequências numéri
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
+Calculadora-Seq-Logicas/
+│
+├── src/                        # Código-fonte do projeto
+│   └── calculadora.alg         # Arquivo principal em VisualG
+│
+├── docs/                       # Documentação geral do projeto
+│   ├── backlog/                # Backlog do produto e das sprints
+│   │   ├── product-backlog.md
+│   │   ├── sprint1-backlog.md
+│   │   ├── sprint2-backlog.md
+│   │   └── sprint3-backlog.md
+│   │
+│   ├── sprint1/                # Documentos específicos da Sprint 1
+│   │   ├── DoR.md              # Definition of Ready
+│   │   ├── DoD.md              # Definition of Done
+│   │   └── apresentacao.pdf    # Slides ou roteiro
+│   │
+│   ├── sprint2/                # Sprint 2
+│   │   ├── DoR.md
+│   │   ├── DoD.md
+│   │   └── apresentacao.pdf
+│   │
+│   ├── sprint3/                # Sprint 3
+│   │   ├── DoR.md
+│   │   ├── DoD.md
+│   │   └── apresentacao.pdf
+│   │
+│   └── manual-usuario.md       # Manual do usuário final
+│
+├── README.md                   # Documentação principal (GitHub)
+└── .gitignore                  # Arquivos a serem ignorados pelo Git
+
+
 
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
