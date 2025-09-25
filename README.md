@@ -4,11 +4,12 @@ preencher bla bla bla bla bla
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-preencher bla bla bla bla bla
+O projeto consiste no desenvolvimento de uma calculadora de sequências numéricas para auxiliar no estudo da lógica de programação, trabalhando com diferentes tipos de sequências matemáticas.
+A proposta reforça habilidades de raciocínio lógico, análise de padrões e resolução de problemas, aplicadas diretamente na programação.
 
 ## 🏅 Solução <a id="solucao"></a>
 
-preencher bla bla bla bla bla
+a solução é o programa em VisualG que implementa todas as sequências numéricas descritas no backlog, com interação via menu textual, atendendo aos requisitos funcionais, não funcionais e limitações do desafio.
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
