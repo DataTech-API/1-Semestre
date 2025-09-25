@@ -13,7 +13,7 @@
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> sprint</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#manual">Manual</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
