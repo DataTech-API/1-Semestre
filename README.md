@@ -1,7 +1,7 @@
 # Calculadora de Sequências Lógicas
 
 <p align="center">
-      <img src="https://github.com/DataTech-API/1-Semestre/issues/3#issue-3455219202" width="400">
+      <img src="[https://github.com/DataTech-API/1-Semestre/issues/3#issue-3455219202](https://github.com/DataTech-API/1-Semestre/blob/main/calculator-7181192_1280.png?raw=true)" width="400">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
