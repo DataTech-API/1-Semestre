@@ -40,7 +40,7 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </h4>
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 src/ → Contém o código-fonte da aplicação em VisualG.
   calculadora.alg → Arquivo principal do projeto.
@@ -71,7 +71,7 @@ manual-usuario.md → Manual do usuário final.
 README.md → Documento principal do GitHub, com resumo do projeto.
 .gitignore → Arquivos que não devem ser versionados pelo Git.
 
-#link para documentação
+## link para documentação
 
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
