@@ -17,13 +17,13 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status do Projeto: Concluído  ✅ 
+> Status do Projeto: Em andamento  🔜 
 >
-> Relatório de Testes: [PDF](docs/cliente/relatorio_avaliacoes.pdf) 📊
+> Relatório de Testes: [PDF](inserir link) 📊
 >
-> Pasta de Documentação: [Link](docs/cliente) 📄
+> Pasta de Documentação: [Link](inserir link) 📄
 > 
-> Video do Projeto:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
+> Video do Projeto:  [Youtube](inserir link) 📽️
 
 
 # 🏅 Desafio <a id="desafio"></a>
