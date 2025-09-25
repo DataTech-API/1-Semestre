@@ -121,8 +121,6 @@ preencher depois
 4. O resultado é exibido diretamente no console.
 5. Após a execução, o usuário pode escolher outra sequência ou encerrar o programa.
 
-### falta apenas colocar link c a pasta para os documentos e kbo
-
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
   <table>
