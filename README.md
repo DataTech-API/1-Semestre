@@ -96,7 +96,7 @@ manual-usuario.md → Manual do usuário final.
 README.md → Documento principal do GitHub, com resumo do projeto.
 .gitignore → Arquivos que não devem ser versionados pelo Git.
 
-## Manual de Instalação
+## Manual de Instalação <a id="Manual de Instalação"></a>
 1. Baixar o VisualG
 2. Clonar o repositório: 
 preencher depois 
