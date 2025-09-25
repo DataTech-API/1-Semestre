@@ -13,7 +13,7 @@
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> sprint</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#manual">Manual</a>  | 
+  <a href ="#manual">manual</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
@@ -96,7 +96,7 @@ manual-usuario.md → Manual do usuário final.
 README.md → Documento principal do GitHub, com resumo do projeto.
 .gitignore → Arquivos que não devem ser versionados pelo Git.
 
-## Manual de Instalação <a id="Manual"></a>
+## Manual de Instalação <a id="manual"></a>
 1. Baixar o VisualG
 2. Clonar o repositório: 
 preencher depois 
