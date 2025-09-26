@@ -20,9 +20,7 @@
 
 > Status do Projeto: Em andamento  🔜 
 >
-> Relatório de Testes: [PDF](inserir link) 📊
->
-> Pasta de Documentação: [Link](inserir link) 📄
+> Pasta de Documentação: [Link]docs) 📄
 > 
 > Video do Projeto:  [Youtube](inserir link) 📽️
 
