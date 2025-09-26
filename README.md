@@ -47,18 +47,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 |  9   |    x    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci, gerar os próximos n termos a partir desses valores, visualizar as diferenças entre termos consecutivos e também a soma acumulada dos termos, para acompanhar tanto o crescimento local quanto o total da sequência.                       |   3   |    ✅   |
 
 
----
-
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-* preencher
-  
-## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-* preencher
-
----
-
 
 # 📅 Cronograma de Sprints <a id="sprint"></a>
 
@@ -67,6 +55,14 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 | 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
 | 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](inserir link) |
 | 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](inserir link) |
+
+# 📅 DoR e DoD por sprint <a id="dod"></a>
+
+| Sprint        |   situação   | diretório                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | ✔️ | [Sprint 1 Docs](inserir link) |
+| 🔖 **SPRINT 2** | ❌ | [Sprint 2 Docs](inserir link) |
+| 🔖 **SPRINT 3** | ❌ | [Sprint 3 Docs](inserir link) |
 
 
 # 💻 Tecnologias <a id="tecnologias"></a>
