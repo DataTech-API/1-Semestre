@@ -7,14 +7,13 @@
 </p>
 
 <p align="center">
-  | <a href ="#desafio"> desafio</a>  |
-  <a href ="#backlog"> backlog</a>  |
-  <a href ="#dor">DoR</a>  |
-  <a href ="#dod">DoD</a>  |
-  <a href ="#sprint"> sprint</a>  |
+  | <a href ="#desafio"> Desafio</a>  |
+  <a href ="#backlog"> Backlog</a>  |
+  <a href ="#dod">DoR e DoD</a>  |
+  <a href ="#sprint"> Sprint</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#estrutura">estrutura</a> |
-  <a href ="#manual">manual</a>  | 
+  <a href ="#estrutura">Estrutura</a> |
+  <a href ="#manual">Manual</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
