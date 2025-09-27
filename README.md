@@ -47,7 +47,7 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](documentação/sprint1) |
 | 🔖 **SPRINT 2** | 06/10 - 26/10 | ❌ |
 | 🔖 **SPRINT 3** | 03/11 - 23/11 | ❌ |
 
