@@ -5,12 +5,12 @@
 
 ## 📋 sprint backlog  <a id="us"></a>
 
-| Rank | Prioridade | User Story                                                                                                                                                                                                                 | Sprint | Estimativa |
-| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
-|  1   |   Alta     | Como usuário, quero calcular o fatorial de um número inteiro positivo e visualizar o processo passo a passo da multiplicação, para compreender melhor a formação do resultado e o crescimento exponencial da sequência.     |   1    |    ✅     |
-|  2   |   Alta     | Como usuário, quero ver os números da sequência de cubos lado a lado com os quadrados dos mesmos números, para comparar o crescimento dos valores e entender a diferença entre elevar ao quadrado e ao cubo.               |   1    |    ✅     |
-|  3   |   Alta     | Como usuário, quero gerar os n primeiros termos de uma sequência geométrica a partir de um termo inicial e uma razão, e ver esses termos listados tanto na ordem normal quanto na ordem inversa.                           |   1    |    ✅     |
-|  8   |   Baixa    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender como eles se somam ao longo da sequência.                                  |   1   |    ✅     |
+| Rank | Prioridade | User Story                                                                                                                                                                                                                 | Sprint |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+|  1   |   Alta     | Como usuário, quero calcular o fatorial de um número inteiro positivo e visualizar o processo passo a passo da multiplicação, para compreender melhor a formação do resultado e o crescimento exponencial da sequência.     |   1    |
+|  2   |   Alta     | Como usuário, quero ver os números da sequência de cubos lado a lado com os quadrados dos mesmos números, para comparar o crescimento dos valores e entender a diferença entre elevar ao quadrado e ao cubo.               |   1    |
+|  3   |   Alta     | Como usuário, quero gerar os n primeiros termos de uma sequência geométrica a partir de um termo inicial e uma razão, e ver esses termos listados tanto na ordem normal quanto na ordem inversa.                           |   1    |
+|  8   |   Baixa    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender como eles se somam ao longo da sequência.                                  |   1   |
 
 ## 🏅 DoR - Definition of Ready <a id="dor"></a>
 
