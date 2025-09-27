@@ -64,8 +64,7 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 <h4 align="center">
   <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.atlassian.com/br/software/jira"><img src="https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira&logoColor=white
-"></a>
+  <a href="https://www.atlassian.com/br/software/jira"><img src="https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira&logoColor=white"></a>
   </h4>
 
 
