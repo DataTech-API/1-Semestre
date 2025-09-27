@@ -67,12 +67,14 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 # 📂 Estrutura do Projeto <a id="estrutura"></a>
 
  ````README.md```` → Documento principal do GitHub, com resumo do projeto.
- 
-````src````/ → Contém o código-fonte da aplicação em VisualG.
-
-````calculadora.alg```` → Arquivo principal do projeto.
+       ````src````/ → Contém o código-fonte da aplicação em VisualG.
+          ````calculadora.alg```` → Arquivo principal do projeto.
 
 ````documentação````/ → Pasta com toda a documentação.
+   Contém: 
+      → sprint1-backlog
+      → DoR (Definition of Ready)
+      → DoD (Definition of Done)
 
   ````sprint1````/ → Documentação da Sprint 1.
     Contém: 
