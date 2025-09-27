@@ -19,7 +19,7 @@
 
 > Status do Projeto: Em andamento  🔜 
 >
-> Pasta de Documentação: [docs]([https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1/tree/3654bbe4c31871860d98d7713f567d4dbefdb853/docs](https://github.com/DataTech-API/1-Semestre/tree/710f6e3306d8c7814135baf1538bd5c99dffd1db/documenta%C3%A7%C3%A3o)) 📄
+> Pasta de Documentação: [docs]([documentação/processo) 📄
 
 
 # 🏅 Desafio <a id="desafio"></a>
