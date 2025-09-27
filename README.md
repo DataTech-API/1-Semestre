@@ -20,9 +20,7 @@
 
 > Status do Projeto: Em andamento  🔜 
 >
-> Pasta de Documentação: [Link][docs](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1/tree/3654bbe4c31871860d98d7713f567d4dbefdb853/docs)) 📄
-> 
-> Video do Projeto:  [Youtube](inserir link) 📽️
+> Pasta de Documentação: [docs](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1/tree/3654bbe4c31871860d98d7713f567d4dbefdb853/docs) 📄
 
 
 # 🏅 Desafio <a id="desafio"></a>
