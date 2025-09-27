@@ -22,7 +22,7 @@
 |           Independente           | A história pode ser implementada sozinha, sem depender de outra história da sprint..                    |
 |    Compreensão Compartilhada     | Todos os membros da equipe entendem o propósito da história (ex.: soma, subtração, multiplicação, divisão).                          |
 |            Estímável             | A equipe consegue atribuir uma estimativa de esforço para a história (ex.: em horas ou story points).                            |
-|   Critérios técnicos acordados   | O código será feito em VisualG, com foco apenas em lógica de programação, sem interface gráfica.              |
+|   Critérios técnicos acordados   | O código será feito em VisualG, com foco apenas em lógica de programação, sem interface gráfica.               |
 
 ## 🏅 DoD - Definition of Done <a id="dod"></a>
 
