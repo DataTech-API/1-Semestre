@@ -19,7 +19,7 @@
 
 > Status do Projeto: Em andamento  🔜 
 >
-> Pasta de Documentação: [docs]([documentação) 📄
+> Pasta de Documentação: [docs]([https://github.com/DataTech-API/1-Semestre/tree/main/documentação) 📄
 
 
 # 🏅 Desafio <a id="desafio"></a>
