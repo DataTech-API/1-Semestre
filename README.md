@@ -72,9 +72,16 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 ````documentação````/ → Pasta com toda a documentação.
    Contém: 
-      → sprint1-backlog
-      → DoR (Definition of Ready)
-      → DoD (Definition of Done)
+   
+      → imagem
+      → processo
+         Estruturas de Branches.md    
+         Padrão de Commits.md
+         Requisitos do Cliente.pdf
+         manual_instalacao.md
+         manual_usuario.md
+      → sprint1
+
 
   ````sprint1````/ → Documentação da Sprint 1.
     Contém: 
