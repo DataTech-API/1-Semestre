@@ -1,25 +1,9 @@
 # Documentação - Sprint 1
 
-<p align="center">
-      <img src="../../../img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
-      <h2 align="center"> Buzz Tech</h2>
-</p>
-
-<p align="center">
-  | <a href ="#desafio"> Desafio</a>  |
-  <a href ="#us"> User Stories</a>  |   
-  <a href ="#dor">DoR</a>  |
-  <a href ="#dod">DoD</a>  |
-  <a href ="#equipe"> Equipe</a> |
-</p>
-
 > Status da Sprint: Concluída ✅
+> 
 
-## 🏅 Desafio <a id="desafio"></a>
-
-Implementar a base do sistema de RLHF, permitindo que os usuários interajam com dois modelos LLMs de forma simultânea, avaliem as respostas com critérios definidos e escolham a melhor com justificativa. Foi necessário garantir uma interface clara, armazenamento eficiente das avaliações e estrutura adequada para suportar futuras etapas da implementação do RAG, consolidando o fluxo inicial de aprendizado com reforço baseado em feedback humano.
-
-## 📋 User Stories <a id="us"></a>
+## 📋 sprint backlog  <a id="us"></a>
 
 | Rank | Prioridade | User Story                                                                                                                                                                         | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
@@ -35,14 +19,13 @@ Implementar a base do sistema de RLHF, permitindo que os usuários interajam com
 
 |             Critério             | Descrição                                                                                         |
 | :------------------------------: | ------------------------------------------------------------------------------------------------- |
-|       Clareza na Descrição       | A User Story está escrita no formato “Como [persona], quero [ação] para que [objetivo]”           |
-| Critérios de Aceitação Definidos | A história possui critérios objetivos que indicam o que é necessário para considerá-la concluída. |
-| Cenários de Teste Especificados  | A história tem pelo menos 1 cenário de teste estruturado (Dado, Quando, Então).                   |
-|           Independente           | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                    |
-|    Compreensão Compartilhada     | Toda a equipe (incluindo PO e devs) compreende o propósito da história.                           |
-|            Estímável             | A história foi pontuada no Planning Poker ou tem uma estimativa clara.                            |
-|       Documentos de Apoio        | Se necessário, mockups, fluxos ou modelos de dados estão anexados ou referenciados.               |
-|   Critérios técnicos acordados   | As necessidades de Frontend e Backend foram claramente separadas (quando aplicável).              |
+|       Clareza na Descrição       | A User Story está escrita no formato 'Como usuário, quero [ação] para [objetivo]'. Ex.: 'Como usuário, quero somar dois números para obter o resultado correto'.          |
+| Critérios de Aceitação Definidos | Cada história deve ter um resultado esperado simples e objetivo. Ex.: 'Quando inserir 2 + 2, o programa retorna 4'. |
+| Cenários de Teste Simples  | Pelo menos 1 exemplo de entrada e saída esperado deve ser especificado para validar a história.                   |
+|           Independente           | A história pode ser implementada sozinha, sem depender de outra história da sprint..                    |
+|    Compreensão Compartilhada     | Todos os membros da equipe entendem o propósito da história (ex.: soma, subtração, multiplicação, divisão).                          |
+|            Estímável             | A equipe consegue atribuir uma estimativa de esforço para a história (ex.: em horas ou story points).                            |
+|   Critérios técnicos acordados   | O código será feito em VisualG, com foco apenas em lógica de programação, sem interface gráfica.              |
 
 ## 🏅 DoD - Definition of Done <a id="dod"></a>
 
@@ -57,64 +40,3 @@ Implementar a base do sistema de RLHF, permitindo que os usuários interajam com
 |             Validação do PO              | O Product Owner validou a entrega com base nos critérios definidos.                  |
 |            Pronto para deploy            | O item está testado, validado e pode ser integrado ao produto final.                 |
 
-## 🎓 Equipe <a id="equipe"></a>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <th>Membro</th>
-      <th>Função</th>
-      <th>Github</th>
-      <th>Linkedin</th>
-    </tr>
-    <tr>
-      <td>Ivan Duarte</td>
-      <td>Product Owner</td>
-      <td><a href="https://github.com/Ivan-Duarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/ivan-duarte-982532217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Nilber Siqueira</td>
-      <td>Scrum Master</td>
-      <td><a href="https://github.com/NilberSiqueira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/nilber-siqueira-b3404a176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Vitor Spricigo Lima</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Isaque da Silva</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/KhovetS2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Joice Araujo</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/Joice-Araujo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/joice-aparecida-581226250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Jonas Alves</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/dodekafonos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="http://linkedin.com/in/jonas-alves"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Pedro Davi</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/PedrohDavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/pedro-davi-jobs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Rafael Motta</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/Rafael-Motta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/rafaelmotta97"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-  </table>
-</div>
