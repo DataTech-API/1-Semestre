@@ -1,26 +1,27 @@
-# Calculadora de Sequências Lógicas
-
+<h1 align="center"> Calculadora de Sequências Lógicas </h1>
 
 <p align="center">
-      <img src="documentação/imagem/calculadora.png" width="200">
-      <h2 align="center"> DataTech</h2>
+  <img src="documentação/imagem/calculadora.png" width="200">
 </p>
 
+
+---
+
 <p align="center">
-  | <a href ="#desafio"> Desafio</a>  |
-  <a href ="#backlog"> Backlog</a>  |
-  <a href ="#dod">DoR e DoD</a>  |
-  <a href ="#sprint"> Sprint</a>  |
+  | <a href ="#desafio">Desafio</a> |
+  <a href ="#backlog">Backlog</a> |
+  <a href ="dod">DoR e DoD</a> |
+  <a href ="#sprint">Sprint</a> |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#estrutura">Estrutura</a> |
-  <a href ="#manual">Manual</a>  | 
-  <a href ="#equipe"> Equipe</a> |
+  <a href ="#manual">Manual</a> | 
+  <a href ="#equipe">Equipe</a> |
 </p>
 
-> Status do Projeto: Em andamento  🔜 
->
-> Documentação:  [link](documentação)  📄
+---
 
+> **Status do Projeto:** Em andamento 🔜  
+> **Documentação:** [Acesse aqui](documentação) 📄
 
 # 🏅 Desafio <a id="desafio"></a>
 
