@@ -43,7 +43,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 |  8   |   Baixa    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender como eles se somam ao longo da sequência.                                  |   1   |    ✅     |
 |  9   |   Baixa    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci e gerar os próximos n termos, visualizar as diferenças entre termos consecutivos e também a soma acumulada.        |   3   |    ✅     |
 
-
 # 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
@@ -65,6 +64,8 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 <h4 align="center">
   <a href="https://sourceforge.net/projects/visualg30/"><img src="https://img.shields.io/badge/VISUALG-8A2BE2?style=for-the-badge"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.atlassian.com/br/software/jira"><img src="https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira&logoColor=white
+"></a>
   </h4>
 
 
