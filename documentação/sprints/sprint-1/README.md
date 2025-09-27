@@ -31,12 +31,12 @@
 
 |                 Critério                 | Descrição                                                                            |
 | :--------------------------------------: | ------------------------------------------------------------------------------------ |
-|     Critérios de Aceitação atendidos     | Todos os cenários de teste da história foram executados e aprovados.                 |
-|        Testes manuais realizados         | Onde aplicável (ex: US07), os dados são corretamente armazenados e recuperáveis.     |
-|             Código revisado              | O código foi revisado por pelo menos um colega de equipe.                            |
-|     Documentação interna atualizada      | Foi atualizado o que for necessário: API, estrutura de dados, endpoints, etc.        |
-|  Integração com outras partes testadas   | As interfaces entre Frontend e Backend foram validadas.                              |
-| Build/Testes automatiados (se aplicável) | A funcionalidade não quebra a aplicação e passa nos testes automatizados existentes. |
-|             Validação do PO              | O Product Owner validou a entrega com base nos critérios definidos.                  |
-|            Pronto para deploy            | O item está testado, validado e pode ser integrado ao produto final.                 |
+|    Código funcional    | O código compila e executa corretamente no VisualG, atendendo ao que foi especificado.                |
+|        Integração concluída       | Os módulos/códigos foram integrados e funcionam em conjunto sem conflitos.    |
+|            Validação do PO            | O Product Owner revisou e aprovou a integração e o funcionamento da entrega.                            |
+|     Repositório atualizado    | O código está versionado no GitHub, com branches e commits organizados.      |
+|  Commits padronizados   | As mensagens de commit seguem padrão definido (adição da Scrum + breve descrição).                            |
+| Manual de usuário) | documentação atualizada. |
+|             Critérios de aceitação            | Todas as User Stories atendem aos critérios de aceitação definidos no backlog.                |
+|           Revisão de qualidade           | Código revisado para verificar funcionalidade e critérios.                |
 
