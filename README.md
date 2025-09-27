@@ -63,7 +63,9 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 # 📂 Estrutura do Projeto <a id="estrutura"></a>
 
  ````README.md```` → Documento principal do GitHub, com resumo do projeto.
+ 
 ````src````/ → Contém o código-fonte da aplicação em VisualG.
+
 ````calculadora.alg```` → Arquivo principal do projeto.
 
 ````documentação````/ → Pasta com toda a documentação.
@@ -87,9 +89,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
       → DoR (Definition of Ready)
       → DoD (Definition of Done)
 
-manual-usuario.md → Manual do usuário final.
-README.md → Documento principal do GitHub, com resumo do projeto.
-.gitignore → Arquivos que não devem ser versionados pelo Git.
 
 ## Manual de Instalação <a id="manual"></a>
 1. Baixar o VisualG
