@@ -78,7 +78,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
       → sprint1-backlog
       → DoR (Definition of Ready)
       → DoD (Definition of Done)
-      → ````manual-usuario```` → Manual do usuário da sprint1.
 
   ````sprint2````/ → Documentação da Sprint 2.
      Contém: 
