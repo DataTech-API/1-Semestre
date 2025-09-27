@@ -9,7 +9,7 @@
   <a href="#desafio"> Desafio</a> |
   <a href="#backlog"> Backlog</a> |
   <a href="#dod"> DoR & DoD</a> |
-  <a href="#sprint"> Sprint</a> |
+  <a href="#sprint"> Cronograma da Sprint</a> |
   <a href="#tecnologias"> Tecnologias</a> |
   <a href="#estrutura"> Estrutura</a> |
   <a href="documentação/processo/manual_instalacao.md"> Manual de Instalação</a> |
