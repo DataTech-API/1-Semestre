@@ -51,16 +51,16 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](inserir link) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](inserir link) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](inserir link) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | ❌ |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | ❌ |
 
 # 📅 DoR e DoD por sprint <a id="dod"></a>
 
 | Sprint        |   situação   | diretório                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | ✔️ | [Sprint 1 Docs](inserir link) |
-| 🔖 **SPRINT 2** | ❌ | [Sprint 2 Docs](inserir link) |
-| 🔖 **SPRINT 3** | ❌ | [Sprint 3 Docs](inserir link) |
+| 🔖 **SPRINT 2** | ❌ | ❌ |
+| 🔖 **SPRINT 3** | ❌ | ❌ |
 
 
 # 💻 Tecnologias <a id="tecnologias"></a>
