@@ -12,7 +12,8 @@
   <a href="#sprint"> Sprint</a> |
   <a href="#tecnologias"> Tecnologias</a> |
   <a href="#estrutura"> Estrutura</a> |
-  <a href="#manual"> Manual</a> |
+  <a href="documentação/processo/manual_instalacao.md"> Manual de Instalação</a> |
+  <a href="documentação/processo/manual_usuario.md"> Manual do Usuário</a> |
   <a href="#equipe"> Equipe</a> |
   <a href="documentação"> Documentação</a>
 
@@ -92,19 +93,6 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
       → DoD (Definition of Done)
 
 
-## Manual de Instalação <a id="manual"></a>
-1. Baixar o VisualG
-2. Clonar o repositório: 
-preencher depois 
-3. Abrir o arquivo principa (.alg) no VisualG
-4. Executar a aplicação com F9
-
-## Manual do usuário
-1. Ao iniciar, a aplicação mostra um menu de opções.
-2. O usuário escolhe uma sequência (ex: Fibonacci, Primos, Fatorial).
-3. A aplicação solicita os parâmetros (ex: posição, quantidade de termos, valor inicial).
-4. O resultado é exibido diretamente no console.
-5. Após a execução, o usuário pode escolher outra sequência ou encerrar o programa.
 
 ## 🎓 Equipe <a id="equipe"></a>
 <div align="center">
