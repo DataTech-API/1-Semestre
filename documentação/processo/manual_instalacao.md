@@ -4,12 +4,12 @@
 - Sistema Operacional: **Windows 7 ou superior**
 - Espaço em disco: **mínimo 50 MB**
 - Programas necessários:
-  - [VisualG](http://visualg3.com.br/baixar/) instalado
+  - [VisualG]([http://visualg3.com.br/baixar/](https://sourceforge.net/projects/visualg30)) instalado
 
 ---
 
 ## 🔧 Instalação do VisualG
-1. Acesse o site oficial: [http://visualg3.com.br/baixar/](http://visualg3.com.br/baixar/)
+1. Acesse o site oficial: [Clique aqui](https://sourceforge.net/projects/visualg30)
 2. Faça o download do instalador do **VisualG 3.0**.
 3. Execute o instalador e siga as instruções padrão (**Avançar > Avançar > Concluir**).
 4. Após a instalação, abra o **VisualG** para confirmar que o programa está funcionando.
