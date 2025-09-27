@@ -1,36 +1,29 @@
-<h1 align="center"> Calculadora de Sequências Lógicas </h1>
+<h1 align="center"> Calculadora de Sequências Lógicas</h1>
 
 <p align="center">
-  <img src="documentação/imagem/calculadora.png" width="200">
+  <img src="documentação/imagem/calculadora.png" width="200" alt="Calculadora">
 </p>
 
 
----
-
 <p align="center">
-  | <a href ="#desafio">Desafio</a> |
-  <a href ="#backlog">Backlog</a> |
-  <a href ="dod">DoR e DoD</a> |
-  <a href ="#sprint">Sprint</a> |
-  <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#estrutura">Estrutura</a> |
-  <a href ="#manual">Manual</a> | 
-  <a href ="#equipe">Equipe</a> |
+  <a href="#desafio"> Desafio</a> |
+  <a href="#backlog"> Backlog</a> |
+  <a href="#dod"> DoR & DoD</a> |
+  <a href="#sprint"> Sprint</a> |
+  <a href="#tecnologias"> Tecnologias</a> |
+  <a href="#estrutura"> Estrutura</a> |
+  <a href="#manual"> Manual</a> |
+  <a href="#equipe"> Equipe</a> |
+  <a href="documentação"> Documentação</a>
+
 </p>
-
----
-
-> **Status do Projeto:** Em andamento 🔜  
-> **Documentação:** [Acesse aqui](documentação) 📄
 
 # 🏅 Desafio <a id="desafio"></a>
 
 O projeto consiste no desenvolvimento de uma calculadora de sequências numéricas para auxiliar no estudo da lógica de programação, trabalhando com diferentes tipos de sequências matemáticas.
 A proposta reforça habilidades de raciocínio lógico, análise de padrões e resolução de problemas, aplicadas diretamente na programação.
 
-# 📋 Backlog do Produto <a id="backlog"></a>
-
-# Backlog do Projeto - Calculadora
+# Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                                 | Sprint |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
@@ -44,21 +37,22 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 |  8   |   Baixa    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender como eles se somam ao longo da sequência.                                  |   1   | 
 |  9   |   Baixa    | Como usuário da calculadora, quero definir os três primeiros termos iniciais da sequência de Tribonacci e gerar os próximos n termos, visualizar as diferenças entre termos consecutivos e também a soma acumulada.        |   3   | 
 
-# 📅 Cronograma de Sprints <a id="sprint"></a>
+## 📅 Sprints <a id="sprint"></a>
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](documentação/sprint1) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | ❌ |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | ❌ |
+| Sprint | Período | Docs |
+| ------ | :-----: | ---- |
+| 1 | 08/09 - 28/09 | [Sprint 1 Docs](documentação/sprint1) |
+| 2 | 06/10 - 26/10 | ❌ |
+| 3 | 03/11 - 23/11 | ❌ |
 
-# 📅 DoR e DoD por sprint <a id="dod"></a>
 
-| Sprint        |   situação   | diretório                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | ✔️ | [Sprint 1 Docs](documentação/sprint1) |
-| 🔖 **SPRINT 2** | ❌ | ❌ |
-| 🔖 **SPRINT 3** | ❌ | ❌ |
+## 📅 DoR e DoD <a id="dod"></a>
+
+| Sprint | Status | Docs |
+| ------ | :----: | ---- |
+| 1 | ✔️ | [Sprint 1 Docs](documentação/sprint1) |
+| 2 | ❌ | ❌ |
+| 3 | ❌ | ❌ |
 
 
 # 💻 Tecnologias <a id="tecnologias"></a>
