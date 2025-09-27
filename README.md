@@ -55,7 +55,7 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 | Sprint        |   situação   | diretório                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | ✔️ | [Sprint 1 Docs](inserir link) |
+| 🔖 **SPRINT 1** | ✔️ | [Sprint 1 Docs](documentação/sprint1) |
 | 🔖 **SPRINT 2** | ❌ | ❌ |
 | 🔖 **SPRINT 3** | ❌ | ❌ |
 
