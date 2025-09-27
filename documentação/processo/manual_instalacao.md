@@ -36,17 +36,24 @@
 Se tudo estiver certo, o programa abrirá exibindo o menu principal:
 
 =======================================
-MENU CALCULADORA
 
 01 - Números Primos
+
 02 - Fatorial
+
 03 - Fibonacci
+
 04 - Tribonacci
+
 05 - Quadrado Perfeito
+
 06 - Sequência Geométrica
+
 07 - Sequência de Cubos
+
 08 - Sair
 
+=======================================
 
 A partir daí, você poderá navegar pelas opções.
 
