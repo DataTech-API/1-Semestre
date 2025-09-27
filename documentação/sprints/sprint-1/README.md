@@ -5,15 +5,12 @@
 
 ## 📋 sprint backlog  <a id="us"></a>
 
-| Rank | Prioridade | User Story                                                                                                                                                                         | Story Points | Sprint | Requisito do Cliente | Status |
-| :--: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  1   |    Alta    | Como usuário, quero uma interface para inserir um prompt, para que eu possa enviá-lo às LLMs e obter suas respostas                                                                |      14      |   1    |         R02          |   ✅   |
-|  2   |    Alta    | Como usuário, eu quero enviar um prompt para dois modelos de IA simultaneamente, para que eu possa avaliar suas respostas posteriormente.                                          |      47      |   1    |       R01/R09        |   ✅   |
-|  3   |    Alta    | Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios.                                                    |      28      |   1    |         R03          |   ✅   |
-|  4   |    Alta    | Como usuário, eu quero uma interface para poder avaliar cada resposta individualmente através de critérios definidos, para que eu possa analisar a qualidade das respostas geradas |      22      |   1    |         R03          |   ✅   |
-|  5   |    Alta    | Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa.            |      29      |   1    |         R04          |   ✅   |
-|  6   |    Alta    | Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tunning futuramente.     |      41      |   1    |         R05          |   ✅   |
-|  10  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                           |      44      |   1    |         R06          |   ✅   |
+| Rank | Prioridade | User Story                                                                                                                                                                                                                 | Sprint | Estimativa |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
+|  1   |   Alta     | Como usuário, quero calcular o fatorial de um número inteiro positivo e visualizar o processo passo a passo da multiplicação, para compreender melhor a formação do resultado e o crescimento exponencial da sequência.     |   1    |    ✅     |
+|  2   |   Alta     | Como usuário, quero ver os números da sequência de cubos lado a lado com os quadrados dos mesmos números, para comparar o crescimento dos valores e entender a diferença entre elevar ao quadrado e ao cubo.               |   1    |    ✅     |
+|  3   |   Alta     | Como usuário, quero gerar os n primeiros termos de uma sequência geométrica a partir de um termo inicial e uma razão, e ver esses termos listados tanto na ordem normal quanto na ordem inversa.                           |   1    |    ✅     |
+|  8   |   Baixa    | Como usuário da calculadora, quero visualizar os quadrados perfeitos em forma crescente junto com a soma acumulada até cada termo, para entender como eles se somam ao longo da sequência.                                  |   1   |    ✅     |
 
 ## 🏅 DoR - Definition of Ready <a id="dor"></a>
 
