@@ -19,7 +19,7 @@ Este projeto utiliza uma estratégia simplificada de branches para organizar o d
 
 - **main**  
   - Contém o código estável em produção.  
-  - ** Não é permitido commitar diretamente nesta branch.**  
+  - **Não é permitido commitar diretamente nesta branch.**  
   - Alterações só chegam na `main` via **Pull Request (PR)** revisado.  
 
 ---
