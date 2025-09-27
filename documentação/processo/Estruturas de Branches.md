@@ -2,7 +2,7 @@
 
 Este projeto utiliza uma estratégia simplificada de branches para organizar o desenvolvimento.
 
----
+----
 
 ## Prazo para Último Commit e PR
 
