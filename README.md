@@ -62,30 +62,30 @@ A proposta reforça habilidades de raciocínio lógico, análise de padrões e r
 
 # 📂 Estrutura do Projeto <a id="estrutura"></a>
 
-src/ → Contém o código-fonte da aplicação em VisualG.
-  calculadora.alg → Arquivo principal do projeto.
+ ````README.md```` → Documento principal do GitHub, com resumo do projeto.
+````src````/ → Contém o código-fonte da aplicação em VisualG.
+````calculadora.alg```` → Arquivo principal do projeto.
 
-docs/ → Pasta com toda a documentação.
-  backlog/ → Contém o Product Backlog e os Sprint Backlogs.
-    product-backlog.md
-    sprint1-backlog.md
-    sprint2-backlog.md
-    sprint3-backlog.md
+````documentação````/ → Pasta com toda a documentação.
 
-  sprint1/ → Documentos da Sprint 1.
-    DoR.md (Definition of Ready)
-    DoD.md (Definition of Done)
-    apresentacao.pdf (slides ou roteiro)
+  ````sprint1````/ → Documentação da Sprint 1.
+    Contém: 
+      → sprint1-backlog
+      → DoR (Definition of Ready)
+      → DoD (Definition of Done)
+      → ````manual-usuario```` → Manual do usuário da sprint1.
 
-  sprint2/ → Documentos da Sprint 2.
-    DoR.md
-    DoD.md
-    apresentacao.pdf
+  ````sprint2````/ → Documentação da Sprint 2.
+     Contém: 
+      → sprint2-backlog
+      → DoR (Definition of Ready)
+      → DoD (Definition of Done)
 
-  sprint3/ → Documentos da Sprint 3.
-    DoR.md
-    DoD.md
-    apresentacao.pdf
+  ````sprint3````/ → Documentação da Sprint 3.
+    Contém: 
+      → sprint3-backlog
+      → DoR (Definition of Ready)
+      → DoD (Definition of Done)
 
 manual-usuario.md → Manual do usuário final.
 README.md → Documento principal do GitHub, com resumo do projeto.
